@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "getnewuser"
+    }
+  },
+  "defaultProject": "getnewuser",
+  "cli": {
+    "analytics": false
+  }
 }
